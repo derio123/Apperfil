@@ -11,7 +11,7 @@
 	<groupId>com.derio</groupId>
 	<artifactId>projectPerfil</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>projectPerfil</name>
+	<name>Appperfil</name>
 	<description>Carrega os dados de perfil do usuario</description>
 	<packaging>jar</packaging>
 	<properties>
